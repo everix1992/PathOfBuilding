@@ -1,5 +1,22 @@
 # Changelog
 
+## [beta](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/tree/beta) (2026/08/07)
+
+[Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.67.1...beta)
+
+
+## What's Changed
+### Fixed Calculations
+- Fix Scornful Herald not counting buffs as affecting you [\#10158](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/10158) ([Wires77](https://github.com/Wires77))
+### Fixed Behaviours
+- Fix Foulborn icon display on Linux [\#10160](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/10160) ([cupkax](https://github.com/cupkax))
+- Fix double clicking and dragging items causing issues [\#10149](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/10149) ([vaisest](https://github.com/vaisest))
+### Other changes
+- Fix The Unblinking Eye increased evasion not applying to attacks with arcane might [\#10155](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/10155) ([andyli00](https://github.com/andyli00))
+- Release 2.67.2 [\#10163](https://github.com/PathOfBuildingCommunity/PathOfBuilding/pull/10163) ([github-actions](https://github.com/github-actions)[bot])
+
+
+
 ## [v2.67.2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2/tree/v2.67.2) (2026/08/07)
 
 [Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.67.1...v2.67.2)

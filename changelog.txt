@@ -1,3 +1,17 @@
+VERSION[beta][2026/08/07]
+
+--- Fixed Calculations ---
+* Fix Scornful Herald not counting buffs as affecting you (Wires77)
+
+--- Fixed Behaviours ---
+* Fix Foulborn icon display on Linux (cupkax)
+* Fix double clicking and dragging items causing issues (vaisest)
+
+--- Other changes ---
+* Fix The Unblinking Eye increased evasion not applying to attacks with arcane might (andyli00)
+* Release 2.67.2 (github-actions[bot])
+
+
 VERSION[2.67.2][2026/08/07]
 
 --- Fixed Calculations ---
